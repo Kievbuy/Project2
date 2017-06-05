@@ -16,8 +16,8 @@ We have banknotes:
 <li>1 note of 10</li>
 </ul>
 <br>
-The ATM can not withdraw more than 40 banknotes at a time.
+- The ATM can not withdraw more than 40 banknotes at a time.
 <br>
-ATM has notified that it can't withdraw enough money, because amount is too large.
+- ATM has notified that it can't withdraw enough money, because amount is too large.
 <br>
-ATM has notified that it canєt withdraw enough money because he lacks money and offer affordable amount.
+- ATM has notified that it canєt withdraw enough money because he lacks money and offer affordable amount.
